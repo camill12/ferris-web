@@ -17,6 +17,9 @@ body {
     flex-direction: column;
 }
 
+.socials a {
+    color: #0f0;
+}
 /* Header styling */
 header {
     text-align: center;
